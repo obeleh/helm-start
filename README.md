@@ -12,7 +12,7 @@ brew install helm
 
 Render to stdout:
 ```bash
-help template myapp
+helm template myapp
 ```
 
 Render to file:
